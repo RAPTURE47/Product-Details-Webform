@@ -1,0 +1,30 @@
+﻿body {
+    background-color: lightgreen;
+}
+
+#main {
+    width: 100%;
+}
+
+#tbl {
+    border: 1px solid black;
+    width: 75%;
+    height: 50%;
+    border-radius: 25px;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+

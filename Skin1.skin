@@ -1,0 +1,1 @@
+﻿ <asp:Button  runat="server" Text="Button" BackColor="#6495ED" BorderStyle="Dotted" ForeColor="#FF3300" Height="25px" Width="60px" />
